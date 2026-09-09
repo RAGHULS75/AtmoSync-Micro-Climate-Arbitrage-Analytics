@@ -1,0 +1,3 @@
+AtmoSync - Micro-Climate Arbitrage Analytics
+
+This repository is created for the Infotact Data Analytics project.
